@@ -1,0 +1,216 @@
+.headerlogos {
+	height: 30px;
+	margin-left: 10px;
+	border-left: 2px solid #3D58A6;
+	padding-left: 10px;
+}
+.headerlogos:hover {
+	height: 40px;
+}
+.headersociallogos {
+	float: right;
+	width: 250px;
+	margin-top: 3%;
+	height: 50px;
+}
+.htmllogo {
+	height: 60px;
+	float: left;
+	margin: 2% 0 0 3%;
+}
+.li {
+	font-size:  24px;
+	color: #3D58A6;
+	display: inline-block;
+	margin-left: 4%;
+	text-decoration: none;
+	color: black;
+}
+.ul {
+	height: 20px;
+	width: 500px;
+	display: inline-block;
+	margin-left: 10%;
+	margin-top: 3%
+}
+header {
+	height: 100px;
+	position: sticky;
+	top: 0%;
+	background-color: white;
+}
+.googlelogo {
+	height: 30px;
+}
+.googlelogo:hover {
+	height: 40px;
+}
+.searchlogo {
+	height: 30px;
+	margin-left: 10px;
+	border-left: 2px solid #3D58A6;
+	padding-left: 10px;
+}
+.searchlogo:hover {
+	height: 40px;
+}
+.liTAGa {
+	text-decoration: none;
+	font-size: 24px;
+	color: black;
+}
+.liTAGa:hover {
+	color: gray;
+}
+.firstmaindiv {
+	height: 520px;
+	background-color: #E6E6E6;
+}
+.computerlogo {
+	width: 1170px;
+	margin: 3% 2% 3% 3.5%;
+}
+.seconddiv {
+	background-color: #363E97;
+	height: 500px;
+	padding: 2%;
+}
+.secondminidiv {
+	display: inline-flex;
+	background-color: white;
+	width: 570px;
+	height: 320px;
+	margin: 6% 0% 0% 1.5%;
+	justify-content: center;
+}
+.secondmaindivp {
+	margin-top: 25%;
+}
+.seconddivp {
+	color: white;
+	font-size: 24px;
+	background-color: pink;
+	width: 252px;
+	margin: 2% 0 0.2% 2%;
+	clear: none;
+}
+.thirddiv {
+	height: 450px;
+	background-color: #BDCCD4;
+	padding: 4%;
+	justify-content: center;
+}
+.thirdminidiv {
+	width: 270px;
+	height: 270px;
+	background-color: #E6E6E6;
+	display: inline-block;
+	margin: 6% 1% 0 0;
+}
+.thirdminidivimg {
+	width: 270px;
+	height: 210px;
+	display: inline-block;
+	justify-content: center;
+}
+.thirdminidivp {
+	text-align: center;
+}
+.thirdivp {
+	color: white; 
+	font-size: 24px;
+	margin-left: 1%;
+    background-color: pink;
+    width: 220px;
+}
+.forthdiv {
+	background-color: #E6E6E6;
+	height: 400px;
+	width: 100%;
+	padding: 0%;
+}
+.forthdivp {
+	color: white;
+	font-size: 24px;
+	background-color: pink;
+	display: inline-block;
+	margin-left: 1%;
+}
+.forthminidiv {
+	height: 225px;
+	width: 517px;
+	background-color: #F2F2F2;
+	margin: 0 0 0 6%;
+	align-items: 
+}
+.forthminidivlogo {
+    width: 100.873px;
+    height: 130.500px;
+}
+.forthfirstdiv {
+	display: inline-flex;
+	margin-left: 7%;
+}
+.forthminidivh3 {
+	margin-left: 2%;
+}
+.forthminidivp {
+	display: inline-block;
+	width: 300px;
+	float: right;
+}
+.footerbox {
+	height: 60px;
+}
+.footerboxp1 {
+	float: left;
+}
+.footerboxp2 {
+	float: right;
+}
+.button1 {
+  background-color: white;
+  border: none;
+  color: red;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+.thirddivnews {
+	height: 900px;
+	background-color: #BDCCD4;
+	padding: 4%;
+	justify-content: center;
+}
+.loadmorebutton {
+	background-color: #83939B;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin: 5% 5% 5% 40%;
+}
+.forminibox {
+	width: 113px;
+	height: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
